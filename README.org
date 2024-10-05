@@ -1,6 +1,7 @@
 #+title: Yggdrasil
 #+author: Luis Victoria
 
+#+ATTR_HTML: :style text-align:center; display:block; margin:auto; :width 300px
 [[./assets/logo.png]]
 
 In Norse mythology, the cosmos revolve and are held together by the branches and roots of the mighty tree [[https://norse-mythology.org/cosmology/yggdrasil-and-the-well-of-urd/][Yggdrasil]].
